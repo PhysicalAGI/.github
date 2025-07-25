@@ -5,7 +5,7 @@ We’re all about making intelligent humanoid robotics accessible to everyone th
 🚀 How to Jump In
 Ready to get your hands dirty? Here’s how you can join the fun:
 
-Join the Chat: Hop into our Discord at https://discord.gg/cefUmdMt. Say hi, share your ideas, or ask questions!
+Join the Chat: Hop into our Discord at [https://discord.gg/cefUmdMt](https://discord.gg/kPJTjWYxBg) . Say hi, share your ideas, or ask questions!
 Contribute: Got a cool ROS 2 package, a tutorial, or just some feedback? Share it! Check out our projects on GitHub (links shared in Discord) or start your own.
 Learn & Share: Write tutorials, make videos, or help document our projects to spread the knowledge.
 Spread the Vibe: Tell your friends, classmates, or coworkers about PHYSICAL-AGI. The more, the merrier!
